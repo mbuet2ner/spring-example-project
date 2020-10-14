@@ -1,0 +1,6 @@
+version: '3' 
+
+services: 
+    spring_example_project:  
+      image: mbuet2ner/spring_example_project
+      build: . 
